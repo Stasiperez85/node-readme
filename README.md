@@ -1,8 +1,8 @@
 
-  # Node.js README.md file Generator
-
+  # dga
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
-  When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.
+  sadf
 
   ## Table of Contents 
   
@@ -12,25 +12,27 @@
   - [License](#license)
   
   ## Installation
-  Install Node.js and Inquire
+  asdf
 
   ## Usage
-  Click on link to see a walk thru of asssignment
+  asdf
   
   ## Credits
-  Tutor and TA's
+  asdf
 
   ## License
   MIT
 
   ## Badges
+
+  [MIT License](https://choosealicense.com/licenses/mit/)
   
   ## How to Contribute
   
   ## Github
-  Stasiperez85
+  asdfasd
 
   Provide Github username 
 
   ## Contact
-Stasiperez85@gmail.com
+asfsa

@@ -74,8 +74,9 @@ function init() {
         .then((inquirerResponse) => {
             console.log("ReadMe File is complete");
             console.log(inquirerResponse);
+
             // console.log(markdown(inquirerResponse));
-            fs.writeFileSync("ReadME.md", markdown(inquirerResponse));
+            fs.writeFileSync("ReadME.md", markdown({ ...inquirerResponse }));
         })
         .catch(err => {
             console.log(err)
