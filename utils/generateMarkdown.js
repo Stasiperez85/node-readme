@@ -74,7 +74,10 @@ const renderLicenseSection = (license) => {
 
 renderLicenseBadge();
 
+renderLicenseLink();
+
 renderLicenseSection();
+
 // // TODO: Create a function that returns the license link
 // // If there is no license, return an empty string
 // function renderLicenseLink(license) { }
@@ -88,10 +91,11 @@ function generateMarkdown({ title, description, installation, usage, collabrator
 
   return `
   # ${title}
-${renderLicenseBadge(license)}
+
+
   ## Description
   ${description}
-
+  
   ## Table of Contents 
   
   - [Installation](#installation)
@@ -102,8 +106,13 @@ ${renderLicenseBadge(license)}
   ## Installation
   ${installation}
 
+
   ## Usage
   ${usage}
+
+  Clink link to view video of how to generate readme file.
+
+  [link]: (https://watch.screencastify.com/v/KVFijjVU3n1TyRonBGQ7)
   
   ## Credits
   ${collabrators}
@@ -111,19 +120,19 @@ ${renderLicenseBadge(license)}
   ## License
   ${license}
 
-  ## Badges
 
-  [MIT License](https://choosealicense.com/licenses/mit/)
+  ## Badges
+  ${renderLicenseBadge(license)}
   
   ## How to Contribute
   
   ## Github
   ${questions}
-
-  Provide Github username 
+  
 
   ## Contact
 ${email}
+
 `;
 }
 

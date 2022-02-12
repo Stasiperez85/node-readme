@@ -1,9 +1,10 @@
 
-  # dga
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-  ## Description
-  sadf
+  # hgfghgfdf
 
+
+  ## Description
+  hgfghgfdf
+  
   ## Table of Contents 
   
   - [Installation](#installation)
@@ -12,27 +13,32 @@
   - [License](#license)
   
   ## Installation
-  asdf
+  hgfghgfdf
+
 
   ## Usage
-  asdf
+  hgfghgfdf
+
+  Clink link to view video of how to generate readme file.
+
+  [link]: (https://watch.screencastify.com/v/KVFijjVU3n1TyRonBGQ7)
   
   ## Credits
-  asdf
+  hgfghgfdf
 
   ## License
   MIT
 
-  ## Badges
 
-  [MIT License](https://choosealicense.com/licenses/mit/)
+  ## Badges
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
   ## How to Contribute
   
   ## Github
-  asdfasd
-
-  Provide Github username 
+  hgfghgfdf
+  
 
   ## Contact
-asfsa
+hgfghgfdf
+

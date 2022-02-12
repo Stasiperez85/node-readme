@@ -51,7 +51,7 @@ const questions = () => {
             type: 'list',
             name: 'license',
             message: 'What license did you use for your project?',
-            choices: ['GPLv3', 'BSD', 'GNU GPL', 'MIT'],
+            choices: ['GNU', 'MIT'],
         },
         {
             type: 'input',
