@@ -1,8 +1,8 @@
 
-  # Node - README
+  # tst
 
   ## Description
-  As a develope I want a README generator so that I can quickly create a professional README for a new project
+  test
 
   Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
   
@@ -21,13 +21,12 @@
   - [License](#license)
   
   ## Installation
-  Use inquirer package
+  aslkd
 
   What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
   
   ## Usage
-  install inquirer
-
+  
   Provide instructions and examples for use. Include screenshots as needed.
   
   To add a screenshot, create an `assets / images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
@@ -37,7 +36,7 @@
     ```
   
   ## Credits
-  My tutor and all the TA's are amazing
+  
   List your collaborators, if any, with links to their GitHub profiles.
   
   If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
@@ -45,8 +44,7 @@
   If you followed tutorials, include links to those here as well.
   
   ## License
-  not sure yet
-
+  
   The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
   
   ---
@@ -70,11 +68,3 @@
   ## Tests
   
   Go the extra mile and write tests for your application. Then provide examples on how to run them here.
-
-  ## Github
-  stasiperez85
-
-  Provide Github username 
-
-  ## Contact
-stasiperez85@gmail.com
