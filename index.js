@@ -48,9 +48,10 @@ const questions = () => {
             message: 'Please list your collaborators?',
         },
         {
-            type: 'input',
+            type: 'list',
             name: 'license',
-            message: 'What license did you use for your project',
+            message: 'What license did you use for your project?',
+            choices: ['GPLv3', 'BSD', 'GNU GPL', 'MIT'],
         },
         {
             type: 'input',
