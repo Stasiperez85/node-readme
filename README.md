@@ -1,9 +1,9 @@
 
-  # hgfd
+  # Node README.md
 
 
   ## Description
-  hgf
+  Provide a short description explaining the what, why, and how of your project.
   
   ## Table of Contents 
   
@@ -13,19 +13,18 @@
   - [License](#license)
   
   ## Installation
-  hgf
+  What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 
   ## Usage
-  hgf
+  Provide instructions and examples for use. Include screenshots as needed.
 
   Clink link to view video of how to generate readme file.
 
   <https://watch.screencastify.com/v/KVFijjVU3n1TyRonBGQ7>
 
-
   ## Credits
-  hgf
+  List your collaborators, if any, with links to their GitHub profiles. If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
   ## License
   MIT
@@ -37,9 +36,9 @@
   ## How to Contribute
   
   ## Github
-  hgf
+  Stasiperez85
   
 
   ## Contact
-hgf
+stasiperez85@gmail.com
 
