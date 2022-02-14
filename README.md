@@ -1,9 +1,9 @@
 
-  # hgfghgfdf
+  # hgfd
 
 
   ## Description
-  hgfghgfdf
+  hgf
   
   ## Table of Contents 
   
@@ -13,22 +13,23 @@
   - [License](#license)
   
   ## Installation
-  hgfghgfdf
+  hgf
 
 
   ## Usage
-  hgfghgfdf
+  hgf
 
   Clink link to view video of how to generate readme file.
 
-  [link]: (https://watch.screencastify.com/v/KVFijjVU3n1TyRonBGQ7)
-  
+  <https://watch.screencastify.com/v/KVFijjVU3n1TyRonBGQ7>
+
+
   ## Credits
-  hgfghgfdf
+  hgf
 
   ## License
   MIT
-
+  Copyright (C) 2022
 
   ## Badges
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -36,9 +37,9 @@
   ## How to Contribute
   
   ## Github
-  hgfghgfdf
+  hgf
   
 
   ## Contact
-hgfghgfdf
+hgf
 
