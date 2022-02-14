@@ -86,7 +86,7 @@ function generateMarkdown({ title, description, installation, usage, collabrator
 
   Clink link to view video of how to generate readme file.
 
-  <https://watch.screencastify.com/v/KVFijjVU3n1TyRonBGQ7>
+  <https://watch.screencastify.com/v/9jkSlAQHGNcQh7BN4S0l>
 
   ## Credits
   ${collabrators}
