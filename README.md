@@ -21,7 +21,7 @@
 
   Clink link to view video of how to generate readme file.
 
-  <https://watch.screencastify.com/v/KVFijjVU3n1TyRonBGQ7>
+  <https://watch.screencastify.com/v/9jkSlAQHGNcQh7BN4S0l>
 
   ## Credits
   List your collaborators, if any, with links to their GitHub profiles. If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
@@ -40,5 +40,5 @@
   
 
   ## Contact
-stasiperez85@gmail.com
+Stasiperez85@gmail.com
 
