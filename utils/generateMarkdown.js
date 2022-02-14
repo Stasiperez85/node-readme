@@ -107,6 +107,9 @@ function generateMarkdown({ title, description, installation, usage, collabrator
   ## Contact
 ${email}
 
+## GitHub Links
+<https://github.com/Stasiperez85/node-readme>
+
 `;
 }
 
